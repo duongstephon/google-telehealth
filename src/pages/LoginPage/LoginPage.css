@@ -1,0 +1,62 @@
+.homepage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30rem;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    width: 32rem;
+    justify-content: space-between;
+    background-color: white;
+    margin-bottom: 3rem;
+}
+
+.main-logo {
+    width: 5rem;
+}
+
+.text-logo {
+    width: 25rem;
+}
+
+.alt-logo {
+    width: 2.5rem;
+}
+
+.google-signin {
+    display: flex;
+    text-decoration: none;
+    color: black;
+    justify-content: space-between;
+    align-items: center;
+    width: 30rem;
+    padding: 1.2rem 3.5rem;
+    border: solid 2px grey;
+    border-radius: 30px;
+    margin-bottom: 2rem;
+}
+
+.google-signin__text {
+    font-size: 1.5rem;
+}
+
+.or {
+    margin-bottom: 2rem;
+}
+
+.create-account {
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    width: 30rem;
+    padding: 1.7rem 3.5rem;
+    background-color: #1D96ED;
+    border-radius: 30px;
+    margin-bottom: 2rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+}

@@ -1,0 +1,12 @@
+.videoscreen {
+  position: relative;
+}
+.doctor-image {
+  margin: 2rem auto 0rem 7rem;
+}
+
+.patient-image {
+  position: absolute;
+  bottom: 2rem;
+  right: 1.5rem;
+}
